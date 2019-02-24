@@ -1,0 +1,3 @@
+* While I was incognito mode I could not see any history.  
+* This could be useful as tester because you will not have any
+ filler/cookies taking more time of a tester to filter through.
