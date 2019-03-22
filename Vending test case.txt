@@ -1,0 +1,7 @@
+Test case for vending machine.
+
+1. Ensure customer uses US currency in vender machine.
+2. Customer input money in the correct slot.
+3. Customer makes thier selection of item
+4. Item dispenses from vending machine.
+5. Customer is happy.
